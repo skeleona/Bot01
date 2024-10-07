@@ -65,4 +65,4 @@ app.on('activate', () => {
       createMainWindow();
     }, 5000); // Ajustez cette valeur pour correspondre à la vitesse de la barre de progression
   }
-});
+});s
